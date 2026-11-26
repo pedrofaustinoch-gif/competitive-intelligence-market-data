@@ -1,6 +1,6 @@
 {
   "source": "Yahoo Finance",
-  "generatedAt": "2026-11-25T15:35:30.336037+00:00",
+  "generatedAt": "2026-11-26T05:22:27.048124+00:00",
   "range": "5y",
   "interval": "1d",
   "companyCount": 13,
@@ -11,13 +11,9 @@
       "symbol": "6501.T",
       "currency": "JPY",
       "exchange": "JPX",
-      "latestCompletedDate": "2026-11-24",
-      "latestClose": 4974.0,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 4959.0,
       "prices": [
-        {
-          "date": "2021-11-25",
-          "close": 1460.0
-        },
         {
           "date": "2021-11-26",
           "close": 1417.4
@@ -4893,6 +4889,10 @@
         {
           "date": "2026-11-24",
           "close": 4974.0
+        },
+        {
+          "date": "2026-11-25",
+          "close": 4959.0
         }
       ]
     },
@@ -9899,8 +9899,8 @@
       "symbol": "GEV",
       "currency": "USD",
       "exchange": "NYQ",
-      "latestCompletedDate": "2026-11-24",
-      "latestClose": 720.65,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 715.0,
       "prices": [
         {
           "date": "2024-03-27",
@@ -12577,6 +12577,10 @@
         {
           "date": "2026-11-24",
           "close": 720.65
+        },
+        {
+          "date": "2026-11-25",
+          "close": 715.0
         }
       ]
     },
@@ -12585,8 +12589,8 @@
       "symbol": "ETN",
       "currency": "USD",
       "exchange": "NYQ",
-      "latestCompletedDate": "2026-11-24",
-      "latestClose": 319.27,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 317.81,
       "prices": [
         {
           "date": "2021-11-26",
@@ -17603,6 +17607,10 @@
         {
           "date": "2026-11-24",
           "close": 319.27
+        },
+        {
+          "date": "2026-11-25",
+          "close": 317.81
         }
       ]
     },
@@ -17611,8 +17619,8 @@
       "symbol": "ABBN.SW",
       "currency": "CHF",
       "exchange": "EBS",
-      "latestCompletedDate": "2026-11-24",
-      "latestClose": 65.44,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 63.36,
       "prices": [
         {
           "date": "2021-11-25",
@@ -22637,6 +22645,10 @@
         {
           "date": "2026-11-24",
           "close": 65.44
+        },
+        {
+          "date": "2026-11-25",
+          "close": 63.36
         }
       ]
     },
@@ -38003,13 +38015,9 @@
       "symbol": "6503.T",
       "currency": "JPY",
       "exchange": "JPX",
-      "latestCompletedDate": "2026-11-24",
-      "latestClose": 4622.0,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 4474.0,
       "prices": [
-        {
-          "date": "2021-11-25",
-          "close": 1477.5
-        },
         {
           "date": "2021-11-26",
           "close": 1473.5
@@ -42885,6 +42893,10 @@
         {
           "date": "2026-11-24",
           "close": 4622.0
+        },
+        {
+          "date": "2026-11-25",
+          "close": 4474.0
         }
       ]
     },
@@ -42893,13 +42905,9 @@
       "symbol": "CGPOWER.NS",
       "currency": "INR",
       "exchange": "NSI",
-      "latestCompletedDate": "2026-11-23",
-      "latestClose": 790.6,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 778.9,
       "prices": [
-        {
-          "date": "2021-11-25",
-          "close": 154.6
-        },
         {
           "date": "2021-11-26",
           "close": 150.3
@@ -47835,6 +47843,10 @@
         {
           "date": "2026-11-23",
           "close": 790.6
+        },
+        {
+          "date": "2026-11-25",
+          "close": 778.9
         }
       ]
     },
@@ -47843,13 +47855,9 @@
       "symbol": "6504.T",
       "currency": "JPY",
       "exchange": "JPX",
-      "latestCompletedDate": "2026-11-24",
-      "latestClose": 10590.0,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 9926.0,
       "prices": [
-        {
-          "date": "2021-11-25",
-          "close": 6100.0
-        },
         {
           "date": "2021-11-26",
           "close": 6000.0
@@ -52725,6 +52733,10 @@
         {
           "date": "2026-11-24",
           "close": 10590.0
+        },
+        {
+          "date": "2026-11-25",
+          "close": 9926.0
         }
       ]
     },
