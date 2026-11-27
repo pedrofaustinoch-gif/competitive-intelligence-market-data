@@ -1,6 +1,6 @@
 {
   "source": "Yahoo Finance",
-  "generatedAt": "2026-11-26T05:22:27.048124+00:00",
+  "generatedAt": "2026-11-27T05:17:06.884605+00:00",
   "range": "5y",
   "interval": "1d",
   "companyCount": 13,
@@ -11,13 +11,9 @@
       "symbol": "6501.T",
       "currency": "JPY",
       "exchange": "JPX",
-      "latestCompletedDate": "2026-11-25",
-      "latestClose": 4959.0,
+      "latestCompletedDate": "2026-11-26",
+      "latestClose": 5012.0,
       "prices": [
-        {
-          "date": "2021-11-26",
-          "close": 1417.4
-        },
         {
           "date": "2021-11-29",
           "close": 1394.0
@@ -4893,6 +4889,10 @@
         {
           "date": "2026-11-25",
           "close": 4959.0
+        },
+        {
+          "date": "2026-11-26",
+          "close": 5012.0
         }
       ]
     },
@@ -4901,13 +4901,9 @@
       "symbol": "WEGE3.SA",
       "currency": "BRL",
       "exchange": "SAO",
-      "latestCompletedDate": "2026-11-24",
-      "latestClose": 50.2,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 49.65,
       "prices": [
-        {
-          "date": "2021-11-25",
-          "close": 33.8
-        },
         {
           "date": "2021-11-26",
           "close": 32.69
@@ -9891,6 +9887,10 @@
         {
           "date": "2026-11-24",
           "close": 50.2
+        },
+        {
+          "date": "2026-11-25",
+          "close": 49.65
         }
       ]
     },
@@ -17619,13 +17619,9 @@
       "symbol": "ABBN.SW",
       "currency": "CHF",
       "exchange": "EBS",
-      "latestCompletedDate": "2026-11-25",
-      "latestClose": 63.36,
+      "latestCompletedDate": "2026-11-26",
+      "latestClose": 65.24,
       "prices": [
-        {
-          "date": "2021-11-25",
-          "close": 31.5515
-        },
         {
           "date": "2021-11-26",
           "close": 30.218
@@ -22649,6 +22645,10 @@
         {
           "date": "2026-11-25",
           "close": 63.36
+        },
+        {
+          "date": "2026-11-26",
+          "close": 65.24
         }
       ]
     },
@@ -22657,13 +22657,9 @@
       "symbol": "SU.PA",
       "currency": "EUR",
       "exchange": "PAR",
-      "latestCompletedDate": "2026-11-24",
-      "latestClose": 226.1,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 216.65,
       "prices": [
-        {
-          "date": "2021-11-25",
-          "close": 156.72
-        },
         {
           "date": "2021-11-26",
           "close": 151.58
@@ -27779,6 +27775,10 @@
         {
           "date": "2026-11-24",
           "close": 226.1
+        },
+        {
+          "date": "2026-11-25",
+          "close": 216.65
         }
       ]
     },
@@ -27787,13 +27787,9 @@
       "symbol": "ENR.DE",
       "currency": "EUR",
       "exchange": "GER",
-      "latestCompletedDate": "2026-11-24",
-      "latestClose": 117.88,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 112.46,
       "prices": [
-        {
-          "date": "2021-11-25",
-          "close": 24.51
-        },
         {
           "date": "2021-11-26",
           "close": 24.18
@@ -32885,6 +32881,10 @@
         {
           "date": "2026-11-24",
           "close": 117.88
+        },
+        {
+          "date": "2026-11-25",
+          "close": 112.46
         }
       ]
     },
@@ -32893,13 +32893,9 @@
       "symbol": "ART.MC",
       "currency": "EUR",
       "exchange": "MCE",
-      "latestCompletedDate": "2026-11-24",
-      "latestClose": 27.0,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 26.3,
       "prices": [
-        {
-          "date": "2021-11-25",
-          "close": 4.0
-        },
         {
           "date": "2021-11-26",
           "close": 3.88
@@ -38007,6 +38003,10 @@
         {
           "date": "2026-11-24",
           "close": 27.0
+        },
+        {
+          "date": "2026-11-25",
+          "close": 26.3
         }
       ]
     },
@@ -38015,13 +38015,9 @@
       "symbol": "6503.T",
       "currency": "JPY",
       "exchange": "JPX",
-      "latestCompletedDate": "2026-11-25",
-      "latestClose": 4474.0,
+      "latestCompletedDate": "2026-11-26",
+      "latestClose": 4457.0,
       "prices": [
-        {
-          "date": "2021-11-26",
-          "close": 1473.5
-        },
         {
           "date": "2021-11-29",
           "close": 1453.0
@@ -42897,6 +42893,10 @@
         {
           "date": "2026-11-25",
           "close": 4474.0
+        },
+        {
+          "date": "2026-11-26",
+          "close": 4457.0
         }
       ]
     },
@@ -42905,13 +42905,9 @@
       "symbol": "CGPOWER.NS",
       "currency": "INR",
       "exchange": "NSI",
-      "latestCompletedDate": "2026-11-25",
-      "latestClose": 778.9,
+      "latestCompletedDate": "2026-11-26",
+      "latestClose": 782.0,
       "prices": [
-        {
-          "date": "2021-11-26",
-          "close": 150.3
-        },
         {
           "date": "2021-11-29",
           "close": 148.6
@@ -47847,6 +47843,10 @@
         {
           "date": "2026-11-25",
           "close": 778.9
+        },
+        {
+          "date": "2026-11-26",
+          "close": 782.0
         }
       ]
     },
@@ -47855,13 +47855,9 @@
       "symbol": "6504.T",
       "currency": "JPY",
       "exchange": "JPX",
-      "latestCompletedDate": "2026-11-25",
-      "latestClose": 9926.0,
+      "latestCompletedDate": "2026-11-26",
+      "latestClose": 9922.0,
       "prices": [
-        {
-          "date": "2021-11-26",
-          "close": 6000.0
-        },
         {
           "date": "2021-11-29",
           "close": 6020.0
@@ -52737,6 +52733,10 @@
         {
           "date": "2026-11-25",
           "close": 9926.0
+        },
+        {
+          "date": "2026-11-26",
+          "close": 9922.0
         }
       ]
     },
@@ -52745,13 +52745,9 @@
       "symbol": "SWDY.CA",
       "currency": "EGP",
       "exchange": "CAI",
-      "latestCompletedDate": "2026-11-24",
-      "latestClose": 116.99,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 116.02,
       "prices": [
-        {
-          "date": "2021-11-25",
-          "close": 8.56
-        },
         {
           "date": "2021-11-28",
           "close": 8.56
@@ -57583,6 +57579,10 @@
         {
           "date": "2026-11-24",
           "close": 116.99
+        },
+        {
+          "date": "2026-11-25",
+          "close": 116.02
         }
       ]
     },
@@ -57591,13 +57591,9 @@
       "symbol": "WRT1V.HE",
       "currency": "EUR",
       "exchange": "HEL",
-      "latestCompletedDate": "2026-11-24",
-      "latestClose": 24.05,
+      "latestCompletedDate": "2026-11-25",
+      "latestClose": 23.64,
       "prices": [
-        {
-          "date": "2021-11-25",
-          "close": 12.67
-        },
         {
           "date": "2021-11-26",
           "close": 12.08
@@ -62617,6 +62613,10 @@
         {
           "date": "2026-11-24",
           "close": 24.05
+        },
+        {
+          "date": "2026-11-25",
+          "close": 23.64
         }
       ]
     }
